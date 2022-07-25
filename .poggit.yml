@@ -5,5 +5,5 @@ branches:
 projects:
   BowTime:
     path: ""
-    icon: "icon.gif"
+    icon: "BowTime.png"
 ...
