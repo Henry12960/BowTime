@@ -84,7 +84,7 @@ class Main extends PluginBase implements Listener  {
                 $time = microtime(true) - (float)$this->cooldown[$player->getName()];
                 $settings = $this->settings;
                 if ($time < (float)$settings["cooldown"]) {
-                    $settings["popup"] ? $player->sendPopup(str_replace("{time}", $time, $settings["message"])) : $player->sendMessage(str_replace("{time}", $time, $settings["message"]));
+                    $settings["pop-up"] ? $player->sendPopup(str_replace("{time}", $time, $settings["message"])) : $player->sendMessage(str_replace("{time}", $time, $settings["message"]));
                     $event->cancel(true);
                     return;
                 }
