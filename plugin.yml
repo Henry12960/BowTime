@@ -1,0 +1,7 @@
+name: BowTime
+main: HenryDM\BowTime\Main
+api: [4.0.0]
+version: 1.0.0
+authors: [HenryDM, Taco]
+website: https://github.com/Henry12960, https://github.com/TacoNoBurrito]
+description: Simple plugin to set cooldown on bows!

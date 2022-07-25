@@ -1,0 +1,21 @@
+#  ____    ____ __          __  _______  _____  __  __  ______ 
+# |  _ \  / __ \\ \        / / |__   __||_   _||  \/  ||  ____|
+# | |_) || |  | |\ \  /\  / /     | |     | |  | \  / || |__   
+# |  _ < | |  | | \ \/  \/ /      | |     | |  | |\/| ||  __|  
+# | |_) || |__| |  \  /\  /       | |    _| |_ | |  | || |____ 
+# |____/  \____/    \/  \/        |_|   |_____||_|  |_||______|
+#                                                              
+#                      By HenryDM & Taco                                                             
+
+#========================
+#Bow Cooldown
+cooldown: "1.0"
+#========================
+# Cooldown Message
+# Protip: Use minecraft color codes to cutomize
+# Protip: Use {TIME} tag if you want
+message: "Bow Cooldown: {time}"
+#========================
+# If True all Cooldown messages will be displayed in popup, if False will be displayed in normal messages!
+popup: false
+#========================
