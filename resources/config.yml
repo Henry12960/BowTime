@@ -17,5 +17,5 @@ cooldown: "1.0"
 message: "Bow Cooldown: {time}"
 #========================
 # If True all Cooldown messages will be displayed in popup, if False will be displayed in normal messages!
-popup: false
+pop-up: false
 #========================
