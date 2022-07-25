@@ -14,7 +14,7 @@ cooldown: "1.0"
 # Cooldown Message
 # Protip: Use minecraft color codes to cutomize
 # Protip: Use {TIME} tag if you want
-message: "Bow Cooldown: {time}"
+message: "Bow Cooldown: {TIME}"
 #========================
 # If True all Cooldown messages will be displayed in popup, if False will be displayed in normal messages!
 pop-up: false
