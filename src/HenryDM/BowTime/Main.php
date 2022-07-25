@@ -28,7 +28,8 @@ namespace HenryDM\BowTime;
  * TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
  * USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
- 
+
+
 # Entity Events
 use pocketmine\entity\projectile\Arrow;
 use pocketmine\event\entity\ProjectileLaunchEvent;
