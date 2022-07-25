@@ -13,7 +13,7 @@ PocketMine-MP API 4.0.0 and PHP 8 or PHP 7
 
 ## Overview
 
-**BlockPerms**: this is an advanced block protection plugin for PocketMine-MP that allows you to block players from placing and breaking specific blocks on your server, very useful to prevent players from abusing errors or failures that may occur to destroy your server. Made in lightweight code and fully customized for you!
+**BlockPerms**: This is a plugin that allows you to set a certain Cooldown for the players' arcs, very useful for pvp or even survival servers, in addition this plugin has popout options or messages to alert the player about Cooldown!!
 
 **Henry Website:** https://github.com/Henry12960
 **Taco Website:** https://github.com/TacoNoBurrito
